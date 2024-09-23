@@ -50,7 +50,7 @@ body.standalone .header-container {
     text-align: center;
     color: #2f353f;
     flex-grow: 1;
-    font-weight: bold;
+    font-weight: normal;
 }
 .time {
     text-align: center;
