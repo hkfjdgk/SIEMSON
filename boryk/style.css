@@ -49,7 +49,8 @@ body.standalone .header-container {
     margin: 0;
     text-align: center;
     color: #2f353f;
-    font-weight: 700;
+    flex-grow: 1;
+    font-weight: bold;
 }
 .time {
     text-align: center;
