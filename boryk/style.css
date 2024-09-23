@@ -10,7 +10,9 @@ body.standalone .header-container {
     padding-top: 20px; /* Add padding to prevent cutting off the top */
 }
 
-
+.gruby{
+font-weight: 700;
+}
 
 .container {
     width: 100%;
@@ -50,7 +52,6 @@ body.standalone .header-container {
     margin: 0;
     text-align: center;
     color: #2f353f;
-    font-weight: normal;
     flex-grow: 1;
 }
 .time {
